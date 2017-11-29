@@ -7,7 +7,7 @@ import java.awt.Label;
 import java.awt.Panel;
 import java.awt.event.ActionEvent ;
 import java.awt.event.ActionListener;
- 
+# 
 public class Kalkulator extends Applet implements ActionListener 
 {
     static double wartosc = 0.0;
