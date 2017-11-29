@@ -147,3 +147,4 @@ public class Kalkulator extends Applet implements ActionListener
         }
     }
 }
+/
