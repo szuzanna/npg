@@ -1,4 +1,3 @@
-// Badanie, czy graf zawiera cykl lub œcie¿kê Eulera
 // Data: 4.01.2014
 // (C)2013 mgr Jerzy Wa³aszek
 //--------------------------------------------------
