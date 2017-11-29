@@ -43,3 +43,4 @@ public class ZgadnijLiczbe
         System.out.println("Zgad³eœ za "+ktory_raz+" razem.");
     }
 }
+#
