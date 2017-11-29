@@ -1,7 +1,7 @@
 import java.applet.Applet;
 import java.awt.Color;
 import java.awt.Graphics;
- 
+#
 public class AppletRuch extends Applet implements Runnable 
 {
     private int m_X = 60, m_Y = 0, m_oldX, m_oldY;
