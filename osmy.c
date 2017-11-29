@@ -2,7 +2,7 @@
 // Data : 28.03.2014
 // (C)2014 mgr Jerzy Wa³aszek
 //----------------------------
-
+/
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -104,5 +104,8 @@ int main()
 
   return 0;
 } 
+<<<<<<< HEAD
 /
 
+=======
+>>>>>>> galaz

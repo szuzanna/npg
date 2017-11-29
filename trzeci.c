@@ -2,7 +2,7 @@
 // Data: 22.08.2008
 // (C)2012 mgr Jerzy Wa³aszek
 //-----------------------------
-
+/
 #include <iostream>
 #include <string>
 
@@ -117,4 +117,7 @@ int main()
   cout << s << endl << endl;
   return 0;
 } 
+<<<<<<< HEAD
 /
+=======
+>>>>>>> galaz
