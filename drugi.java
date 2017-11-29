@@ -73,3 +73,4 @@ public class AppletRuch extends Applet implements Runnable
         g.setColor(Color.white);
     }
 }
+#
